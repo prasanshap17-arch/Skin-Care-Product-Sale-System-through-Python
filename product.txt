@@ -1,0 +1,12 @@
+1,Vitamin C Serum,Garnier,138,1000.0,France
+2,Skin Cleanser,Cetaphil,375,350.0,Switzerland
+3,Sunscreen,Aqualogica,194,700.0,India
+4,Lip Butter Balm,Summer Fridays,201,700.0,California
+5,Vinoperfect Serum,La Roche-Posay,114,800.0,France
+6,Magic Water Cream,Charlotte Tilb,585,1200.0,United Kingdom
+7,Cerave,nonvue,34,1000.0,india
+8,Body Wash,Shadow,23,350.0,Suden
+9,Body Lotion,Nivea,50,540.0,New York
+10,Oil Shampoo,Pantien,80,500.0,China
+11,hari scrub,nevia,60,500.0,China
+12,Nail Paint remover,Ocha,70,40.0,nepal
